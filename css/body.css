@@ -33,7 +33,7 @@
 	.friend ul li img{width: 100%;height: 100%;}
 	.advantages{background: #4f83e9;height: 500px;color: #fff;}
 	.advantages ul{display: flex;align-items: center;justify-content: center;}
-	.advantages img{height: 200px;}
+	.advantages img{height: 200px;width: 100%;}
 	.advantages .w img{height:95px;}
 	.advantages .w{margin-top: 25px;}
 	.advantages h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
@@ -74,11 +74,11 @@
 	.friend h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
 	.advantages{background: #4f83e9;height: 520px;color: #fff;width: 1000px;}
 	.advantages ul{display: flex;align-items: center;justify-content: center;}
-	.advantages img{height: 200px;}
+	.advantages img{height: 200px;width: 100%;}
 	.advantages .w img{height:95px;}
-	.advantages .w{margin: 20px 10px;}
-	.advantages h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
-	.advantages h2{font-size: 16px;font-weight: normal;margin: 5px 0 50px;padding-left: 20px;}
+	.advantages .w{}
+	.advantages h1{background: url(../images/slf/icon_f.png) no-repeat;padding:0px 0px 0 40px;margin: 20px 0px 0 20px;}
+	.advantages h2{font-size: 16px;font-weight: normal;margin: 5px 0 50px 20px;padding-left: 20px;}
 }
 /*中屏结束*/
 
