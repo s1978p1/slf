@@ -1,0 +1,71 @@
+/*公共头部样式*/
+
+/*大屏*/
+@media screen and (min-width : 1000px){
+	/* body{background-color: #3c76e7;} */
+	.public_head{width: 100%;background-color: #3c76e7;}
+	.public_head .w{display: flex;align-items: center;justify-content: center;}
+	/*logo*/
+	.public_head .logo{height: 53px;float: left;}
+	.public_head .logo img{width: 100%;height: 100%;}
+	/*logo结束*/
+	/*导航*/
+	.public_head h1{display: none;}
+	.public_head .nav{width: 75%;float: right;}
+	.public_head .nav .hamburger{display: none;}
+	.public_head .nav_ul{width: 100%;padding: 10px 0;}
+	.public_head .nav_ul .move_left{display: none;}
+	.public_head .nav_ul li{height: 55px;text-align: center;padding: 0px 40px;float: left;}
+	.public_head .nav_ul li a{display: block;color: #fff;font-size: 24px;line-height: 55px;font-weight: bold;}
+	.public_head .nav_ul li:hover a{color: #000;transition: 0.3s all;}
+	.public_head li.active a{color: #000;border-bottom:3px solid #000;transition: 0.3s all;}
+	/*导航结束*/
+}
+/*大屏结束*/
+
+/*中屏*/
+@media screen and (min-width : 768px) and (max-width : 999px) {
+	/* body{background-color: #3c76e7;} */
+	.public_head{width: 100%;background-color: #3c76e7;}
+	.public_head .w{display: flex;align-items: center;justify-content: center;}
+	/*logo*/
+	.public_head .logo{height: 53px;float: left;}
+	.public_head .logo img{width: 100%;height: 100%;}
+	/*logo结束*/
+	/*导航*/
+	.public_head h1{display: none;}
+	.public_head .nav{min-width: calc(100% - 170px);float: right;}
+	.public_head .nav .hamburger{display: none;}
+	.public_head .nav_ul{width: 100%;}
+	.public_head .nav_ul .move_left{display: none;}
+	.public_head .nav_ul li{height: 55px;text-align: center;padding: 0 35px;float: left;}
+	.public_head .nav_ul li a{display: block;color: #fff;font-size: 24px;line-height: 55px;font-weight: bold;}
+	.public_head .nav_ul li:hover a{color: #000;transition: 0.3s all;}
+	.public_head li.active a{color: #000;border-bottom:3px solid #000;transition: 0.3s all;}
+	/*导航结束*/
+}
+/*中屏结束*/
+
+/*小屏*/
+@media screen and (max-width : 767px){
+	.public_head{width: 100%;position: relative;}
+	/*logo*/
+	.public_head .logo img{display: none;}
+	/*logo结束*/
+	/*导航*/
+	.public_head h1{text-align: center;font-size: 0.6rem;top: 0;left: 0;z-index: 50;width: 100%;line-height: 1rem;background:#3c76e7; }
+	.public_head .hamburger{display: block;width: 1rem;height: 1rem;background: url(../images/head/list.png) no-repeat;background-size:1rem 1rem;position: absolute;top: 0;left: 0.1rem;z-index: 100;}
+	.public_head .nav{width: 55%;position: fixed;top: 0;left: -55%;z-index: 999;}
+	.public_head .nav_ul{background: #3c76e7;height: 100vh;border-radius:0 0 0.1rem 0;padding-top: 0.2rem;}
+	.public_head .move_left{display: block;width: 1rem;height: 1rem;position: absolute;top: 0;left: 0;}
+	.public_head .move_left img{width: 100%;height: 100%; }
+	.public_head .nav_ul li:first-child{border-top: 0;}
+	.public_head .nav_ul li{padding: 0.45rem 0.8rem;margin: 0 0.2rem;border-top: 1px solid #ccc;}
+	.public_head .nav_ul li a{color: #fff;font-size: 0.45rem;font-weight: bold;}
+	.public_head li.active{text-align: left;}
+	.public_head li.active a{color: #fff;}
+	/*导航结束*/
+}
+/*小屏结束*/ 
+
+/*公共头部样式结束
