@@ -31,48 +31,48 @@ $().ready(function(){
 	//顶部位置判断结束
 
 	// 汉堡包点击事件
-	$(".hamburger").click(function(){
-		$(".nav").animate({"left":"0"},300);
-		$("body").animate({"left":"55%"},300);
-		$(".public_head").find("h1").animate({"left":"55%"},300);
-		console.log($(".public_head").find("h1").css("left"))
-		$(".move_left").removeClass("hide");
-		$(".hamburger").css("display","none");
-		$(".move_left").css("display","block");
+	// $(".hamburger").click(function(){
+		// $(".nav").animate({"left":"0"},300);
+		// $("body").animate({"left":"55%"},300);
+		// $(".public_head").find("h1").animate({"left":"55%"},300);
+		// console.log($(".public_head").find("h1").css("left"))
+		// $(".move_left").removeClass("hide");
+		// $(".hamburger").css("display","none");
+		// $(".move_left").css("display","block");
 	})
 	// 汉堡包点击事件结束
 	//右箭头事件
-	$(".move_left").click(function(){
-		$(".nav").animate({"left":"-55%"},300);
-		$("body").animate({"left":"0"},300);
-		$(".public_head").find("h1").animate({"left":"0"},300);
-		$(".move_left").addClass("hide");
-		$(".hamburger").css("display","block");
-	})	
+	// $(".move_left").click(function(){
+		// $(".nav").animate({"left":"-55%"},300);
+		// $("body").animate({"left":"0"},300);
+		// $(".public_head").find("h1").animate({"left":"0"},300);
+		// $(".move_left").addClass("hide");
+		// $(".hamburger").css("display","block");
+	// })	
 	//右箭头事件结束
 	
 
 	// 侧边栏左移
-	$(".main").click(function(){
-		$(".nav").animate({"left":"-55%"},300);
-		$("body").animate({"left":"0"},300);
-		$(".public_head").find("h1").animate({"left":"0"},300);
-		$(".move_left").addClass("hide");
-		$(".hamburger").css("display","block");
-	})
-	$(".main").click(function(){
-		$(".nav").animate({"left":"-55%"},300);
-		$("body").animate({"left":"0"},300);
-		$(".public_head").find("h1").animate({"left":"0"},300);
-		$(".move_left").addClass("hide");
-		$(".hamburger").css("display","block");
-	})
-	$(".swiper-container").click(function(){
-		$(".nav").animate({"left":"-55%"},300);
-		$("body").animate({"left":"0"},300);
-		$(".public_head").find("h1").animate({"left":"0"},300);
-		$(".move_left").addClass("hide");
-		$(".hamburger").css("display","block");
-	})
+	// $(".main").click(function(){
+		// $(".nav").animate({"left":"-55%"},300);
+		// $("body").animate({"left":"0"},300);
+		// $(".public_head").find("h1").animate({"left":"0"},300);
+		// $(".move_left").addClass("hide");
+		// $(".hamburger").css("display","block");
+	// })
+	// $(".main").click(function(){
+		// $(".nav").animate({"left":"-55%"},300);
+		// $("body").animate({"left":"0"},300);
+		// $(".public_head").find("h1").animate({"left":"0"},300);
+		// $(".move_left").addClass("hide");
+		// $(".hamburger").css("display","block");
+	// })
+	// $(".swiper-container").click(function(){
+		// $(".nav").animate({"left":"-55%"},300);
+		// $("body").animate({"left":"0"},300);
+		// $(".public_head").find("h1").animate({"left":"0"},300);
+		// $(".move_left").addClass("hide");
+		// $(".hamburger").css("display","block");
+	// })
 	// 侧边栏左移结束
 })
