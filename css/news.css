@@ -1,0 +1,66 @@
+/*主体部分*/
+/*大屏*/
+@media screen and (min-width : 1000px){
+    .top_img{width: 100%;}
+    .top_img img{width: 100%;}
+    .ques{background: #f5f5f5;padding: 50px 0;}
+    .ques h1{margin: 0 0 20px;font-size: 20px;}
+    .ques h1 span{display: inline-block;width: 5px;height: 15px;background: #3955f5 no-repeat 0;margin-right: 5px;}
+    .ques .text{width: 100%;background: #fff;display: flex;justify-content: center;padding: 40px 0;}
+    .suanli{margin-right: 60px;}
+    .suanli,.shouyi{width: 40%;}
+    .ques .text{font-size: 16px;}
+    .ques .text h2,.ques .text h3{font-weight: normal;}
+    .ques .text h2{height: 45px;line-height: 44px;border-bottom: 1px solid #e5e5e5;font-size: 16px;}
+    .ques .text ul{margin-top: 20px;}
+    .ques .text ul li{margin: 15px 0;}
+    .ques .text ul li h3{margin: 10px 0 ;cursor: pointer;font-size: 16px;}
+    .ques .text p.text_hide{height: 0;overflow: hidden;transition:height 0.3s ;font-size: 16px;}
+    .ques .text p.text_see{margin: 10px 0 ;padding: 0 30px;transition:height 0.3s ;font-size: 16px;}
+    .color_blue{color: rgb(53, 79, 250);}
+}
+/*大屏结束*/
+
+/*中屏*/
+@media screen and (min-width : 768px) and (max-width : 999px) {
+	.top_img{width: 100%;}
+    .top_img img{width: 100%;}
+    .ques{background: #f5f5f5;padding: 50px 0;}
+    .ques h1{margin: 20px 0 10px;font-size: 16px;}
+    .ques h1 span{display: inline-block;width: 5px;height: 15px;background: #3955f5 no-repeat 0;margin-right: 5px;}
+    .ques .text{width: 100%;background: #fff;display: flex;justify-content: center;padding: 40px 0;}
+    .suanli{margin-right: 60px;}
+    .suanli,.shouyi{width: 40%;}
+    .ques .text{font-size: 16px;}
+    .ques .text h2,.ques .text h3{font-weight: normal;font-size: 16px;}
+    .ques .text h2{height: 45px;line-height: 44px;border-bottom: 1px solid #e5e5e5;}
+    .ques .text ul{margin-top: 20px;}
+    .ques .text ul li{margin: 15px 0;}
+    .ques .text ul li h3{margin: 10px 0 ;cursor: pointer;}
+    .ques .text p.text_hide{height: 0;overflow: hidden;transition:height 0.3s ;font-size: 16px;}
+    .ques .text p.text_see{margin: 10px 0 ;padding: 0 30px;transition:height 0.3s ;font-size: 16px;}
+    .color_blue{color: rgb(53, 79, 250);}
+}
+/*中屏结束*/
+
+/*小屏*/
+@media screen and (max-width : 767px){
+	.top_img{width: 100%;}
+    .top_img img{width: 100%;}
+    .ques{background: #f5f5f5;padding: 0.65rem 0;}
+    .ques h1{margin-bottom: 0.26rem;font-size: 0.208rem;padding: 0rem 0.065rem;}
+    .ques h1 span{display: inline-block;width: 0.065rem;height: 0.195rem;background: #3955f5 no-repeat 0;margin-right: 0.065rem;}
+    .ques .text{width: 90%;background: #fff;padding: 0.13rem 0;margin: 0 auto;}
+    .suanli,.shouyi{width: 80%;margin: 0.35rem auto;}
+    .ques .text{font-size: 0.208rem;}
+    .ques .text h2,.ques .text h3{font-weight: normal;font-size: 0.208rem;}
+    .ques .text h2{height: 0.455rem;line-height: 0.442rem;border-bottom: 0.013rem solid #e5e5e5;}
+    .ques .text ul{margin-top: 0.13rem;}
+    .ques .text ul li{margin: 0.065rem 0;}
+    .ques .text ul li h3{margin: 0.13rem 0 ;cursor: pointer;}
+    .ques .text p.text_hide{height: 0;overflow: hidden;transition:height 0.3s ;font-size: 0.208rem;}
+    .ques .text p.text_see{margin: 0.13rem 0 ;padding: 0 0.26rem;transition:height 0.3s ;font-size: 0.208rem;}
+    .color_blue{color: rgb(53, 79, 250);}
+}
+/*小屏结束*/ 
+/*主体部分结束*/

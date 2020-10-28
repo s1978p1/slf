@@ -26,6 +26,10 @@
 	.company h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
 	.company h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
 	.company p{font-size: 16px;padding: 10px 20px 10px 0px;}
+
+	.ques{background: #2b6be6;height: 200px;}
+	.ques a{font-size:48px;text-align: center;line-height: 200px;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
+	
 	.friend{margin: 40px auto;}
 	.friend h1{background: url(../images/slf/icon_b.png) no-repeat;padding-left: 40px;}
 	.friend h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
@@ -69,6 +73,12 @@
 	.company h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
 	.company h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
 	.company p{font-size: 16px;padding: 10px 20px 10px 0px;}
+
+
+	.ques{background: #2b6be6;height: 200px;}
+	.ques a{font-size:48px;text-align: center;line-height: 200px;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
+
+
 	.friend{padding: 20px 10px;}
 	.friend h1{background: url(../images/slf/icon_b.png) no-repeat;padding-left: 40px;}
 	.friend h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
@@ -100,6 +110,20 @@
 	.company h1{font-size: 0.208rem;}
 	.company h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
 	.company p{font-size: 0.156rem;padding: 0.13rem 0.26rem 0.13rem 0rem;}
+
+
+
+
+	.ques{background: #2b6be6;height: 1.6rem;}
+	.ques a{font-size:0.624rem;text-align: center;line-height: 1.6rem;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
+
+
+
+
+
+
+
+
 	.friend{padding: 0.3rem 0.2rem;}
 	.friend h1{font-size: 0.208rem;}
 	.friend h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
