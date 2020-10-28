@@ -20,7 +20,10 @@ var swiper = new Swiper('.swiper-container', {
 });
 $().ready(function(){
 	$(".appDownload").click(function(){
-		window.location.href = "http://api.suanlifeng.com/wap/invite/92947423/367566964ec3a65c4825dc8c143c5243"
+		window.location.href = "http://api.suanlifeng.com/wap/invite/92947423/367566964ec3a65c4825dc8c143c5243";
+	})
+	$(".about").click(function(){
+		window.location.href = "company.html";
 	})
 })
 //轮播图结束
