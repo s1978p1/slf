@@ -1,0 +1,67 @@
+/*主体部分*/
+/*大屏*/
+@media screen and (min-width : 1000px){
+    .bigTitle{width: 100%;}
+    .bigTitle img{width: 100%;}
+    .about_us{text-align: center;}
+    .about_us h1{margin: 20px 0 10px;font-size: 36px;}
+    .about_us p{font-size: 14px;}
+    .about_us h2{margin: 20px 0;width: 100%;border-bottom: 1px solid #ccc;height: 40px;line-height: 40px;font-size: 20px;}
+    .about_us h3{font-size: 16px;}
+    .about_us ul{display: flex;justify-content: center;margin: 40px 0;width: 100%;}
+    .about_us ul li{margin: 0 10px;padding: 0 15px;width: 25%;}
+    .mid_img{width: 100%;}
+    .mid_img img{width: 100%;}
+    .profile{text-align: center;}
+    .profile h1{margin: 20px 0 10px;font-size: 36px;}
+    .profile p{font-size: 16px;}
+    .profile h3{font-size: 16px;text-align: left;margin: 20px 0;}
+    .profile_img{margin: 20px auto;}
+}
+/*大屏结束*/
+
+/*中屏*/
+@media screen and (min-width : 768px) and (max-width : 999px) {
+	.bigTitle{width: 100%;}
+    .bigTitle img{width: 100%;}
+    .about_us{text-align: center;}
+    .about_us h1{margin: 20px 0 10px;font-size: 24px;}
+    .about_us p{font-size: 14px;}
+    .about_us h2{margin: 10px 0;width: 100%;border-bottom: 1px solid #ccc;height: 30px;line-height: 30px;font-size: 16px;}
+    .about_us h3{font-size: 12px;}
+    .about_us ul{display: flex;justify-content: center;margin: 40px 0;width: 100%;}
+    .about_us ul li{margin: 0 10px;padding: 0 15px;width: 25%;}
+    .mid_img{width: 100%;}
+    .mid_img img{width: 100%;}
+    .profile{text-align: center;}
+    .profile h1{margin: 20px 0 10px;font-size: 36px;}
+    .profile p{font-size: 16px;}
+    .profile h3{font-size: 16px;text-align: left;margin: 10px 0;}
+    .profile_img{margin: 20px auto;}
+    .profile_img img{width: 100%;}
+}
+/*中屏结束*/
+
+/*小屏*/
+@media screen and (max-width : 767px){
+	.bigTitle{width: 100%;}
+    .bigTitle img{width: 100%;}
+    .about_us{text-align: center;}
+    .about_us h1{margin: 0.26rem 0 0.13rem;font-size: 0.234rem;}
+    .about_us p{font-size: 0.182rem;}
+    .about_us h2{margin: 0.13rem 0;height: 0.39rem;line-height: 0.39rem;font-size: 0.208rem;}
+    .about_us h2 span{border-bottom: 0.013rem solid #ccc;}
+    .about_us h3{font-size: 0.208rem;}
+    .about_us ul{margin: 0.52rem 0;width: 100%;}
+    .about_us ul li{margin: 0.26rem auto;padding: 0 0.195rem;width: 60%;}
+    .mid_img{width: 100%;}
+    .mid_img img{width: 100%;}
+    .profile{text-align: center;}
+    .profile h1{margin: 20px 0 10px;font-size: 36px;}
+    .profile p{font-size: 16px;}
+    .profile h3{font-size: 16px;text-align: left;margin: 10px 0;}
+    .profile_img img{width: 100%;}
+    .profile_img{margin: 20px auto;}
+}
+/*小屏结束*/ 
+/*主体部分结束*/
