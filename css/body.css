@@ -103,10 +103,12 @@
 	.friend{padding: 0.3rem 0.2rem;}
 	.friend h1{font-size: 0.208rem;}
 	.friend h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
+	.friend ul li{width: 50%;}
+	.friend ul li img{width: 100%;}
 	.advantages{background: #4f83e9;color: #fff;width: 100%;}
-	.advantages ul li{margin: 0.15rem;}
+	.advantages ul li{padding: 0.15rem;width: 45%;}
 	.advantages img{width: 100%;}
-	.advantages .w img{width:3.64rem;height:1.235rem;}
+	.advantages .w img{width: 100%;}
 	.advantages .w{margin: 0.3rem 0.13rem 0;}
 	.advantages h1{font-size: 0.208rem;}
 	.advantages h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
