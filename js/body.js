@@ -23,7 +23,7 @@ $().ready(function(){
 		window.location.href = "http://api.suanlifeng.com/wap/invite/92947423/367566964ec3a65c4825dc8c143c5243";
 	})
 	$(".about").click(function(){
-		window.location.href = "company.html";
+		window.location.href = "https://huimo.site/company.html";
 	})
 })
 //轮播图结束
