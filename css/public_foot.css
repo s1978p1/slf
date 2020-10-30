@@ -49,7 +49,7 @@
 	/*备案区域样式结束*/
 	.public_foot{background: #2969e4;padding: 0.4rem;}
 	.public_foot .logo_foot{text-align: center;vertical-align: center;}	
-	.public_foot .logo_foot img{width: 50%;text-align: center;vertical-align: center;}
+	.public_foot .logo_foot img{width: 20%;text-align: center;vertical-align: center;}
 	.public_foot .massage_b{margin: 0.2rem auto;}
 	.public_foot .massage{padding: 0 0.26rem;width: 100%;}
 	.public_foot .massage li{color: #fff;font-size: 0.156rem;margin-bottom: 0.13rem;padding-left: 0.26rem;width: 100%;}
