@@ -65,28 +65,28 @@
 	.bigTitle{width: 100%;}
     .bigTitle img{width: 100%;}
     .about_us{text-align: center;margin: 0.13rem auto;}
-    .about_us h1{margin: 0.26rem 0 0.13rem;font-size: 0.234rem;}
-    .about_us p{font-size: 0.182rem;}
-    .about_us h2{margin: 0.13rem 0;height: 0.39rem;line-height: 0.39rem;font-size: 0.208rem;}
+    .about_us h1{margin: 0.26rem 0 0.13rem;font-size: 0.5rem;}
+    .about_us p{font-size: 0.4rem;}
+    .about_us h2{margin: 0.13rem 0;height: 0.6rem;line-height: 0.6rem;font-size: 0.4rem;}
     .about_us h2 span{border-bottom: 0.013rem solid #ccc;}
-    .about_us h3{font-size: 0.208rem;}
+    .about_us h3{font-size: 0.4rem;}
     .about_us ul{margin: 0.52rem 0;width: 100%;}
     .about_us ul li{margin: 0.26rem auto;padding: 0 0.195rem;width: 60%;}
     .about_us ul li  img{width: 25%;}
     .mid_img{width: 100%;}
     .mid_img img{width: 100%;}
     .profile{text-align: center;margin: 0.13rem auto;}
-    .profile h1{margin: 0.26rem 0 0.13rem;font-size: 0.468rem;}
-    .profile p{font-size: 0.208rem;}
-    .profile h3{font-size: 0.208rem;text-align: left;margin: 0.13rem 0;padding:0 0.26rem;}
+    .profile h1{margin: 0.26rem 0 0.13rem;font-size: 0.6rem;}
+    .profile p{font-size: 0.4rem;}
+    .profile h3{font-size: 0.4rem;text-align: left;margin: 0.13rem 0;padding:0 0.26rem;}
     .profile_img img{width: 100%;}
     .profile_img{margin: 0.26rem auto;}
     .contact{text-align: center;padding: 0.13rem 0;background: #f5f5f5;}
-    .contact h1{margin: 0.26rem 0 0.13rem;font-size: 0.234rem;}
-    .contact p{font-size: 0.182rem;}
-    .contact h2{margin: 0.13rem 0;height: 0.39rem;line-height: 0.39rem;font-size: 0.208rem;}
+    .contact h1{margin: 0.26rem 0 0.13rem;font-size: 0.4rem;}
+    .contact p{font-size: 0.4rem;}
+    .contact h2{margin: 0.13rem 0;height: 0.6rem;line-height: 0.6rem;font-size: 0.4rem;}
     .contact h2 span{border-bottom: 0.013rem solid #ccc;}
-    .contact h3{font-size: 0.208rem;}
+    .contact h3{font-size: 0.4rem;}
     .contact ul{margin: 0.52rem 0;width: 100%;}
     .contact ul li{margin: 0.26rem auto;padding: 0 0.195rem;width: 60%;}
     .contact .contact_img{width: 100%;margin: 0.13rem auto;}

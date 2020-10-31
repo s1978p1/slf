@@ -101,15 +101,15 @@
 	.main{}
 	.appDownload{width: 100%;position: relative;}
 	.appDownload img{width: 100%;height: 100%;}
-	a.download{text-align: center;border: 0.026rem solid #fff;display: block;position:absolute;left: 0;right: 0;top: auto;bottom: 0.8rem;width: 1.95rem;height: 0.39rem;font-size: 0.182rem;font-weight: bold;line-height: 0.39rem;margin: auto;color: #ffffff;border-radius: 0.26rem;}
+	a.download{text-align: center;border: 0.026rem solid #fff;display: block;position:absolute;left: 0;right: 0;top: auto;bottom: 0.8rem;width: 2.5rem;height: 0.5rem;font-size: 0.3rem;font-weight: bold;line-height: 0.5rem;margin: auto;color: #ffffff;border-radius: 0.26rem;}
 	a.download:hover{color: #3c76e7;transition: 0.5s all;background-color: #fff;}
 	.appDownload ul{display: none;}
 	.about{background: url(../images/slf/aboutpc.71d6a914.png) no-repeat;height: 100%;background-size: 100% 100%;}
 	.company{padding: 0.5rem 0.2rem;color: #fff;}
 	.company img{width: 100%;height: 100%;margin-top: 0.2rem;}
-	.company h1{font-size: 0.208rem;}
-	.company h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
-	.company p{font-size: 0.156rem;padding: 0.13rem 0.26rem 0.13rem 0rem;}
+	.company h1{font-size: 0.4rem;}
+	.company h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
+	.company p{font-size: 0.3rem;padding: 0.13rem 0.26rem 0.13rem 0rem;}
 
 
 
@@ -125,8 +125,8 @@
 
 
 	.friend{padding: 0.3rem 0.2rem;}
-	.friend h1{font-size: 0.208rem;}
-	.friend h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
+	.friend h1{font-size: 0.4rem;}
+	.friend h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
 	.friend ul li{width: 50%;}
 	.friend ul li img{width: 100%;}
 	.advantages{background: #4f83e9;color: #fff;width: 100%;}

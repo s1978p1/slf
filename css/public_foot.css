@@ -52,12 +52,10 @@
 	.public_foot .logo_foot img{width: 20%;text-align: center;vertical-align: center;}
 	.public_foot .massage_b{margin: 0.2rem auto;}
 	.public_foot .massage{padding: 0 0.26rem;width: 100%;}
-	.public_foot .massage li{color: #fff;font-size: 0.156rem;margin-bottom: 0.13rem;padding-left: 0.26rem;width: 100%;}
-	.public_foot .gzh{width: 1.43rem;height: 1.43rem;}
-	.public_foot .gzh img{width: 100%;height: 100%;}
-	.public_foot .logo_1{background: url(../images/foot/tel.png) no-repeat;background-size: 0.208rem 0.208rem;}
-	.public_foot .logo_2{background: url(../images/foot/adr.png) no-repeat;background-size: 0.208rem 0.208rem;}
-	.public_foot .logo_3{background: url(../images/foot/e-mlie.png) no-repeat;background-size: 0.208rem 0.208rem;}
+	.public_foot .massage li{color: #fff;font-size: 0.4rem;margin-bottom: 0.13rem;width: 100%;}
+	.public_foot .gzh{width: 1.43rem;height: 1.43rem;margin: 0 auto;}
+	.public_foot .gzh img{width: 100%;height: 100%;text-align: center;}
+	
 	
 
 }
