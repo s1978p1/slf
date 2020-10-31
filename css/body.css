@@ -101,7 +101,7 @@
 	.main{}
 	.appDownload{width: 100%;position: relative;}
 	.appDownload img{width: 100%;height: 100%;}
-	a.download{text-align: center;border: 0.026rem solid #fff;display: block;position:absolute;left: 0;right: 0;top: auto;bottom: 0.8rem;width: 2.5rem;height: 0.5rem;font-size: 0.3rem;font-weight: bold;line-height: 0.5rem;margin: auto;color: #ffffff;border-radius: 0.26rem;}
+	a.download{text-align: center;border: 0.026rem solid #fff;display: block;position:absolute;left: 0;right: 0;top: auto;bottom: 0.8rem;width: 4rem;height: 0.5rem;font-size: 0.3rem;font-weight: bold;line-height: 0.5rem;margin: auto;color: #ffffff;border-radius: 0.26rem;}
 	a.download:hover{color: #3c76e7;transition: 0.5s all;background-color: #fff;}
 	.appDownload ul{display: none;}
 	.about{background: url(../images/slf/aboutpc.71d6a914.png) no-repeat;height: 100%;background-size: 100% 100%;}
@@ -134,8 +134,8 @@
 	.advantages img{width: 100%;}
 	.advantages .w img{width: 100%;}
 	.advantages .w{margin: 0.3rem 0.13rem 0;}
-	.advantages h1{font-size: 0.208rem;}
-	.advantages h2{font-size: 0.156rem;font-weight: normal;margin: 0.065rem 0;}
+	.advantages h1{font-size: 0.4rem;}
+	.advantages h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
 }
 /*小屏结束*/ 
 /*主体部分结束*/
