@@ -127,7 +127,7 @@
 	.friend{padding: 0.3rem 0.2rem;}
 	.friend h1{font-size: 0.4rem;}
 	.friend h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
-	.friend ul li{width: 50%;}
+	.friend ul li{width: 30%;margin: 0 0.08rem;}
 	.friend ul li img{width: 100%;}
 	.advantages{background: #4f83e9;color: #fff;width: 100%;}
 	.advantages ul li{padding: 0.15rem;width: 45%;}
