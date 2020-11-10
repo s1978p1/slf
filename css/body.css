@@ -23,7 +23,7 @@
 	.product{background: #f4f5f7;padding: 70px 0;}
 	.product h1{color: #1a60e2;font-size: 30px;font-weight: 700;padding-left: 40px;background: url(../images/slf/hot.png) no-repeat;}
 	.product h1 span{font-size: 18px;color: #565656;font-weight: normal;margin-left: 10px;}
-	.product .prod{width: 100%;background: #fff;margin: 20px auto 0;padding:  40px;position: relative;}
+	.product .prod{width: 100%;background: #fff url(../images/slf/hot_text.png) no-repeat top right;;margin: 20px auto 0;padding:  40px;position: relative;}
 	.product .prod h2{font-size: 24px;color: #000;font-weight: normal;height: 55px;line-height: 44px;border-bottom:1px solid #eee ;}
 	.product .date{margin: 30px auto;}
 	.product .date span{font-size: 20px;display: inline-block;}
@@ -80,7 +80,7 @@
 	.product{background: #f4f5f7;padding: 70px 0;}
 	.product h1{color: #1a60e2;font-size: 30px;font-weight: 700;padding-left: 40px;background: url(../images/slf/hot.png) no-repeat;}
 	.product h1 span{font-size: 18px;color: #565656;font-weight: normal;margin-left: 10px;}
-	.product .prod{width: 100%;background: #fff;margin: 20px auto 0;padding:  40px;position: relative;}
+	.product .prod{width: 100%;background: #fff url(../images/slf/hot_text.png) no-repeat top right;;margin: 20px auto 0;padding:  40px;position: relative;}
 	.product .prod h2{font-size: 24px;color: #000;font-weight: normal;height: 55px;line-height: 44px;border-bottom:1px solid #eee ;}
 	.product .date{margin: 30px auto;}
 	.product .date span{font-size: 20px;display: inline-block;}
@@ -125,7 +125,7 @@
 	.product{background: #f4f5f7;padding: 0.91rem 0;}
 	.product h1{color: #1a60e2;font-size: 0.39rem;font-weight: 700;padding-left: 0.52rem;background: url(../images/slf/hot.png) no-repeat;background-size: 0.4rem 0.4rem; margin-left: 0.3rem;}
 	.product h1 span{font-size: 0.234rem;color: #565656;font-weight: normal;margin-left: 0.13rem;}
-	.product .prod{width: 85%;background: #fff;margin: 0.26rem auto 0;padding:  0.52rem;position: relative;}
+	.product .prod{width: 85%;background: #fff url(../images/slf/hot_text.png) no-repeat top right;background-size: 1.144rem 1.144rem;margin: 0.26rem auto 0;padding:  0.52rem;position: relative;}
 	.product .prod h2{font-size: 0.312rem;color: #000;font-weight: normal;height: 0.715rem;line-height: 0.572rem;border-bottom:1px solid #eee ;}
 	.product .date{margin: 0.39rem auto;}
 	.product .date span{font-size: 0.26rem;display: inline-block;}
