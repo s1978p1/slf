@@ -20,16 +20,26 @@
 	.bgc2{background-color: #1b5fe4;}
 	.bgc3{background-color: #2b6be6;}
 	.bgc4{background-color: #3d76e7;}
+	.product{background: #f4f5f7;padding: 70px 0;}
+	.product h1{color: #1a60e2;font-size: 30px;font-weight: 700;padding-left: 40px;background: url(../images/slf/hot.png) no-repeat;}
+	.product h1 span{font-size: 18px;color: #565656;font-weight: normal;margin-left: 10px;}
+	.product .prod{width: 100%;background: #fff;margin: 20px auto 0;padding:  40px;position: relative;}
+	.product .prod h2{font-size: 24px;color: #000;font-weight: normal;height: 55px;line-height: 44px;border-bottom:1px solid #eee ;}
+	.product .date{margin: 30px auto;}
+	.product .date span{font-size: 20px;display: inline-block;}
+	.product .date span i{font-size: 16px;color: #555;}
+	.product .date span:first-child{color: #ff7800;}
+	.product .btn{}
+	.product .btn span{background-color: #ffeee4;color: #ff7800;border-radius: 4px;line-height: 26px;font-size: 16px;display: inline-block;text-align: center;padding:0 10px;margin-right: 10px;}
+	.product .prod a{position: absolute;display: inline-block;right: 40px;bottom: 35px;width: 170px;height: 55px;color: #fff;font-size: 18px;line-height: 54px;text-align: center;background-color: #2969e4;}
 	.about{background: url(../images/slf/aboutpc.71d6a914.png) no-repeat;background-size: 100% 100%;display: flex;align-items: center;justify-content: center;height: 540px;}
 	.company{overflow: hidden;}
 	.company div{width: 50%;color: #fff;float: left;}
 	.company h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
 	.company h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
 	.company p{font-size: 16px;padding: 10px 20px 10px 0px;}
-
 	.ques{background: #2b6be6;height: 200px;}
-	.ques a{font-size:48px;text-align: center;line-height: 200px;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
-	
+	.ques a{font-size:48px;text-align: center;line-height: 200px;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}	
 	.friend{margin: 40px auto;}
 	.friend h1{background: url(../images/slf/icon_b.png) no-repeat;padding-left: 40px;}
 	.friend h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
@@ -67,18 +77,26 @@
 	.bgc2{background-color: #1b5fe4;}
 	.bgc3{background-color: #2b6be6;}
 	.bgc4{background-color: #3d76e7;}
+	.product{background: #f4f5f7;padding: 70px 0;}
+	.product h1{color: #1a60e2;font-size: 30px;font-weight: 700;padding-left: 40px;background: url(../images/slf/hot.png) no-repeat;}
+	.product h1 span{font-size: 18px;color: #565656;font-weight: normal;margin-left: 10px;}
+	.product .prod{width: 100%;background: #fff;margin: 20px auto 0;padding:  40px;position: relative;}
+	.product .prod h2{font-size: 24px;color: #000;font-weight: normal;height: 55px;line-height: 44px;border-bottom:1px solid #eee ;}
+	.product .date{margin: 30px auto;}
+	.product .date span{font-size: 20px;display: inline-block;}
+	.product .date span i{font-size: 16px;color: #555;}
+	.product .date span:first-child{color: #ff7800;}
+	.product .btn{}
+	.product .btn span{background-color: #ffeee4;color: #ff7800;border-radius: 4px;line-height: 26px;font-size: 16px;display: inline-block;text-align: center;padding:0 10px;margin-right: 10px;}
+	.product .prod a{position: absolute;display: inline-block;right: 100px;bottom: 35px;width: 170px;height: 55px;color: #fff;font-size: 18px;line-height: 54px;text-align: center;background-color: #2969e4;}
 	.about{background: url(../images/slf/aboutpc.71d6a914.png) no-repeat;background-size: 100% 100%;display: flex;align-items: center;justify-content: center;height: 540px;}
 	.company{overflow: hidden;width: 1000px;padding: 0 10px;}
 	.company div{width: 50%;color: #fff;float: left;}
 	.company h1{background: url(../images/slf/icon_f.png) no-repeat;padding-left: 40px;}
 	.company h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
 	.company p{font-size: 16px;padding: 10px 20px 10px 0px;}
-
-
 	.ques{background: #2b6be6;height: 200px;}
 	.ques a{font-size:48px;text-align: center;line-height: 200px;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
-
-
 	.friend{padding: 20px 10px;}
 	.friend h1{background: url(../images/slf/icon_b.png) no-repeat;padding-left: 40px;}
 	.friend h2{font-size: 16px;font-weight: normal;margin: 5px 0;padding-left: 20px;}
@@ -104,26 +122,26 @@
 	a.download{text-align: center;border: 0.026rem solid #fff;display: block;position:absolute;left: 0;right: 0;top: auto;bottom: 0.8rem;width: 4rem;height: 0.5rem;font-size: 0.3rem;font-weight: bold;line-height: 0.5rem;margin: auto;color: #ffffff;border-radius: 0.26rem;}
 	a.download:hover{color: #3c76e7;transition: 0.5s all;background-color: #fff;}
 	.appDownload ul{display: none;}
+	.product{background: #f4f5f7;padding: 0.91rem 0;}
+	.product h1{color: #1a60e2;font-size: 0.39rem;font-weight: 700;padding-left: 0.52rem;background: url(../images/slf/hot.png) no-repeat;background-size: 0.4rem 0.4rem; margin-left: 0.3rem;}
+	.product h1 span{font-size: 0.234rem;color: #565656;font-weight: normal;margin-left: 0.13rem;}
+	.product .prod{width: 85%;background: #fff;margin: 0.26rem auto 0;padding:  0.52rem;position: relative;}
+	.product .prod h2{font-size: 0.312rem;color: #000;font-weight: normal;height: 0.715rem;line-height: 0.572rem;border-bottom:1px solid #eee ;}
+	.product .date{margin: 0.39rem auto;}
+	.product .date span{font-size: 0.26rem;display: inline-block;}
+	.product .date span i{font-size: 0.208rem;color: #555;}
+	.product .date span:first-child{color: #ff7800;display: block;font-size: 0.56rem;margin-bottom: 0.2rem;}
+	.product .btn{}
+	.product .btn span{background-color: #ffeee4;color: #ff7800;border-radius: 0.052rem;line-height: 0.6rem;font-size: 0.208rem;display: inline-block;text-align: center;padding:0 0.2rem;margin-right: 0.15rem;}
+	.product .prod a{position: absolute;display: inline-block;right: 0.5rem;bottom: 0.355rem;width: 1.7rem;height: 0.7rem;color: #fff;font-size: 0.234rem;line-height: 0.7rem;text-align: center;background-color: #2969e4;}
 	.about{background: url(../images/slf/aboutpc.71d6a914.png) no-repeat;height: 100%;background-size: 100% 100%;}
 	.company{padding: 0.5rem 0.2rem;color: #fff;}
 	.company img{width: 100%;height: 100%;margin-top: 0.2rem;}
 	.company h1{font-size: 0.4rem;}
 	.company h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
 	.company p{font-size: 0.3rem;padding: 0.13rem 0.26rem 0.13rem 0rem;}
-
-
-
-
 	.ques{background: #2b6be6;height: 1.6rem;}
 	.ques a{font-size:0.624rem;text-align: center;line-height: 1.6rem;font-weight: bold;color: #fff;display: block;width: 100%;height: 100%;}
-
-
-
-
-
-
-
-
 	.friend{padding: 0.3rem 0.2rem;}
 	.friend h1{font-size: 0.4rem;}
 	.friend h2{font-size: 0.3rem;font-weight: normal;margin: 0.065rem 0;}
